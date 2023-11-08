@@ -1,0 +1,32 @@
+2023-11-06 11:40:09.872 [main] DEBUG packet.RecursionDemo - Аргумент от n равно 6
+2023-11-06 11:41:05.230 [main] DEBUG packet.RecursionDemo - Аргумент от n равно 6
+2023-11-06 11:42:00.665 [main] DEBUG packet.RecursionDemo - Аргумент от n равно 6
+2023-11-06 11:42:00.672 [main] INFO  packet.RecursionDemo - Получили результат 1
+2023-11-06 11:42:00.673 [main] ERROR packet.RecursionDemo - Что-то пошло не так,подробнее {}
+java.lang.IllegalArgumentException: Передано отрицательное число
+	at packet.RecursionDemo.factorial(RecursionDemo.java:39) ~[classes/:?]
+	at packet.RecursionDemo.main(RecursionDemo.java:16) [classes/:?]
+2023-11-06 11:42:38.922 [main] DEBUG packet.RecursionDemo - Аргумент от n равно 6
+2023-11-06 11:42:38.932 [main] INFO  packet.RecursionDemo - Получили результат 720
+2023-11-06 11:42:38.933 [main] ERROR packet.RecursionDemo - Что-то пошло не так,подробнее {}
+java.lang.IllegalArgumentException: Передано отрицательное число
+	at packet.RecursionDemo.factorial(RecursionDemo.java:39) ~[classes/:?]
+	at packet.RecursionDemo.main(RecursionDemo.java:16) [classes/:?]
+2023-11-06 11:44:15.502 [main] DEBUG packet.RecursionDemo - Аргумент от n равно 6
+2023-11-06 11:44:15.509 [main] INFO  packet.RecursionDemo - Получили результат 720
+2023-11-06 11:44:15.510 [main] ERROR packet.RecursionDemo - Что-то пошло не так,подробнее Передано отрицательное число
+2023-11-06 11:47:00.547 [main] DEBUG packet.RecursionDemo - Аргумент от n равно 6
+2023-11-06 11:47:00.554 [main] INFO  packet.RecursionDemo - Получили результат 720
+2023-11-06 11:47:00.554 [main] ERROR packet.RecursionDemo - Что-то пошло не так,подробнее Передано отрицательное число
+2023-11-06 11:47:36.149 [main] DEBUG packet.RecursionDemo - Аргумент от n равно 6
+2023-11-06 11:47:36.156 [main] INFO  packet.RecursionDemo - Получили результат 720
+2023-11-06 11:47:36.157 [main] ERROR packet.RecursionDemo - Что-то пошло не так,подробнее Передано отрицательное число
+java.lang.IllegalArgumentException: Передано отрицательное число
+	at packet.RecursionDemo.factorial(RecursionDemo.java:39) ~[classes/:?]
+	at packet.RecursionDemo.main(RecursionDemo.java:16) [classes/:?]
+2023-11-06 16:23:32.717 [main] DEBUG packet.RecursionDemo - Аргумент от n равно 6
+2023-11-06 16:23:32.728 [main] INFO  packet.RecursionDemo - Получили результат 720
+2023-11-06 16:23:32.729 [main] ERROR packet.RecursionDemo - Что-то пошло не так,подробнее Передано отрицательное число
+java.lang.IllegalArgumentException: Передано отрицательное число
+	at packet.RecursionDemo.factorial(RecursionDemo.java:39) ~[classes/:?]
+	at packet.RecursionDemo.main(RecursionDemo.java:16) [classes/:?]

@@ -1,0 +1,103 @@
+2023-11-05 20:49:38.101 [main] DEBUG org.apache.logging.log4j.LogManager - This is a debug message
+2023-11-05 20:49:38.108 [main] INFO  org.apache.logging.log4j.LogManager - This is a info message
+2023-11-05 20:49:38.108 [main] WARN  org.apache.logging.log4j.LogManager - This is a warn message
+2023-11-05 20:49:38.109 [main] ERROR org.apache.logging.log4j.LogManager - This is a erroe message
+2023-11-05 20:49:38.109 [main] FATAL org.apache.logging.log4j.LogManager - This is a fatal message
+2023-11-05 20:55:23.904 [main] DEBUG org.apache.logging.log4j.LogManager - This is a debug message
+2023-11-05 20:55:23.911 [main] INFO  org.apache.logging.log4j.LogManager - This is a info message
+2023-11-05 20:55:23.912 [main] WARN  org.apache.logging.log4j.LogManager - This is a warn message
+2023-11-05 20:55:23.912 [main] ERROR org.apache.logging.log4j.LogManager - This is a erroe message
+2023-11-05 20:55:23.914 [main] FATAL org.apache.logging.log4j.LogManager - This is a fatal message
+2023-11-05 21:05:13.147 [main] WARN  org.apache.logging.log4j.LogManager - This is a warn message
+2023-11-05 21:05:13.153 [main] ERROR org.apache.logging.log4j.LogManager - This is a erroe message
+2023-11-05 21:05:13.154 [main] FATAL org.apache.logging.log4j.LogManager - This is a fatal message
+2023-11-05 21:17:15.898 [main] WARN  org.apache.logging.log4j.LogManager - This is a warn message
+2023-11-05 21:17:15.908 [main] ERROR org.apache.logging.log4j.LogManager - This is a erroe message
+2023-11-05 21:17:15.908 [main] FATAL org.apache.logging.log4j.LogManager - This is a fatal message
+2023-11-05 21:18:32.460 [walker] INFO  packet.ThreadTalk - I'm talking
+2023-11-05 21:18:32.460 [Thread-2] INFO  packet.ThreadTalk - I'm talking
+2023-11-05 21:18:32.460 [Thread-1] INFO  packet.ThreadTalk - I'm talking
+2023-11-05 21:18:32.460 [main] DEBUG org.apache.logging.log4j.LogManager - This is a debug message
+2023-11-05 21:18:32.471 [main] INFO  org.apache.logging.log4j.LogManager - This is a info message
+2023-11-05 21:18:32.472 [main] WARN  org.apache.logging.log4j.LogManager - This is a warn message
+2023-11-05 21:18:32.474 [main] ERROR org.apache.logging.log4j.LogManager - This is a erroe message
+2023-11-05 21:18:32.475 [main] FATAL org.apache.logging.log4j.LogManager - This is a fatal message
+2023-11-05 21:20:23.143 [main] DEBUG org.apache.logging.log4j.LogManager - This is a debug message
+2023-11-05 21:20:23.150 [main] INFO  org.apache.logging.log4j.LogManager - This is a info message
+2023-11-05 21:20:23.150 [main] WARN  org.apache.logging.log4j.LogManager - This is a warn message
+2023-11-05 21:20:23.150 [main] ERROR org.apache.logging.log4j.LogManager - This is a erroe message
+2023-11-05 21:20:23.151 [main] FATAL org.apache.logging.log4j.LogManager - This is a fatal message
+2023-11-05 21:20:23.153 [talker2] INFO  packet.ThreadTalk - I'm talking
+2023-11-05 21:20:23.152 [talker] INFO  packet.ThreadTalk - I'm talking
+2023-11-05 21:20:23.154 [walker] INFO  packet.ThreadTalk - I'm talking
+2023-11-05 21:21:17.569 [main] DEBUG org.apache.logging.log4j.LogManager - This is a debug message
+2023-11-05 21:21:17.574 [main] INFO  org.apache.logging.log4j.LogManager - This is a info message
+2023-11-05 21:21:17.575 [main] WARN  org.apache.logging.log4j.LogManager - This is a warn message
+2023-11-05 21:21:17.575 [main] ERROR org.apache.logging.log4j.LogManager - This is a erroe message
+2023-11-05 21:21:17.575 [main] FATAL org.apache.logging.log4j.LogManager - This is a fatal message
+2023-11-05 21:21:17.577 [talker2] INFO  packet.ThreadTalk - I'm talking
+2023-11-05 21:21:17.578 [talker] INFO  packet.ThreadTalk - I'm talking
+2023-11-05 21:21:17.579 [walker] INFO  packet.ThreadTalk - I'm talking
+2023-11-05 21:21:58.528 [main] DEBUG org.apache.logging.log4j.LogManager - This is a debug message
+2023-11-05 21:21:58.535 [main] INFO  org.apache.logging.log4j.LogManager - This is a info message
+2023-11-05 21:21:58.535 [main] WARN  org.apache.logging.log4j.LogManager - This is a warn message
+2023-11-05 21:21:58.536 [main] ERROR org.apache.logging.log4j.LogManager - This is a erroe message
+2023-11-05 21:21:58.536 [main] FATAL org.apache.logging.log4j.LogManager - This is a fatal message
+2023-11-05 21:21:58.538 [talker] INFO  packet.ThreadTalk - I'm talking
+2023-11-05 21:21:58.539 [talker2] INFO  packet.ThreadTalk - I'm talking
+2023-11-05 21:23:11.406 [main] DEBUG org.apache.logging.log4j.LogManager - This is a debug message
+2023-11-05 21:23:11.413 [main] INFO  org.apache.logging.log4j.LogManager - This is a info message
+2023-11-05 21:23:11.414 [main] WARN  org.apache.logging.log4j.LogManager - This is a warn message
+2023-11-05 21:23:11.415 [main] ERROR org.apache.logging.log4j.LogManager - This is a erroe message
+2023-11-05 21:23:11.415 [main] FATAL org.apache.logging.log4j.LogManager - This is a fatal message
+2023-11-05 21:23:11.417 [talker] INFO  packet.ThreadTalk - I'm talking
+2023-11-05 21:23:11.418 [walker] INFO  packet.ThreadTalk - I'm talking
+2023-11-05 21:24:33.746 [main] DEBUG org.apache.logging.log4j.LogManager - This is a debug message
+2023-11-05 21:24:33.753 [main] INFO  org.apache.logging.log4j.LogManager - This is a info message
+2023-11-05 21:24:33.753 [main] WARN  org.apache.logging.log4j.LogManager - This is a warn message
+2023-11-05 21:24:33.754 [main] ERROR org.apache.logging.log4j.LogManager - This is a erroe message
+2023-11-05 21:24:33.754 [main] FATAL org.apache.logging.log4j.LogManager - This is a fatal message
+2023-11-05 21:24:33.756 [walker] INFO  packet.ThreadTalk - I'm talking
+2023-11-05 21:24:33.756 [talker] INFO  packet.ThreadTalk - I'm talking
+2023-11-05 21:27:13.211 [main] DEBUG org.apache.logging.log4j.LogManager - This is a debug message
+2023-11-05 21:27:13.219 [main] INFO  org.apache.logging.log4j.LogManager - This is a info message
+2023-11-05 21:27:13.219 [main] WARN  org.apache.logging.log4j.LogManager - This is a warn message
+2023-11-05 21:27:13.220 [main] ERROR org.apache.logging.log4j.LogManager - This is a erroe message
+2023-11-05 21:27:13.220 [main] FATAL org.apache.logging.log4j.LogManager - This is a fatal message
+2023-11-05 21:27:13.340 [talker] INFO  packet.ThreadTalk - I'm talking
+2023-11-05 21:27:13.340 [walker] INFO  packet.ThreadTalk - I'm talking
+2023-11-05 21:27:34.974 [main] DEBUG org.apache.logging.log4j.LogManager - This is a debug message
+2023-11-05 21:27:34.983 [main] INFO  org.apache.logging.log4j.LogManager - This is a info message
+2023-11-05 21:27:34.983 [main] WARN  org.apache.logging.log4j.LogManager - This is a warn message
+2023-11-05 21:27:34.983 [main] ERROR org.apache.logging.log4j.LogManager - This is a erroe message
+2023-11-05 21:27:34.984 [main] FATAL org.apache.logging.log4j.LogManager - This is a fatal message
+2023-11-05 21:27:35.095 [talker] INFO  packet.ThreadTalk - I'm talking
+2023-11-05 21:27:35.095 [walker] INFO  packet.ThreadTalk - I'm talking
+2023-11-05 21:33:08.323 [main] DEBUG org.apache.logging.log4j.LogManager - This is a debug message
+2023-11-05 21:33:08.330 [main] INFO  org.apache.logging.log4j.LogManager - This is a info message
+2023-11-05 21:33:08.330 [main] WARN  org.apache.logging.log4j.LogManager - This is a warn message
+2023-11-05 21:33:08.331 [main] ERROR org.apache.logging.log4j.LogManager - This is a erroe message
+2023-11-05 21:33:08.335 [main] FATAL org.apache.logging.log4j.LogManager - This is a fatal message
+2023-11-05 21:33:08.454 [talker] INFO  packet.ThreadTalk - I'm talking 0
+2023-11-05 21:33:08.454 [walker] INFO  packet.ThreadTalk - I'm talking 0
+2023-11-05 21:33:08.563 [talker] INFO  packet.ThreadTalk - I'm talking 1
+2023-11-05 21:33:08.563 [walker] INFO  packet.ThreadTalk - I'm talking 1
+2023-11-05 21:33:08.673 [talker] INFO  packet.ThreadTalk - I'm talking 2
+2023-11-05 21:33:08.673 [walker] INFO  packet.ThreadTalk - I'm talking 2
+2023-11-05 21:33:08.784 [talker] INFO  packet.ThreadTalk - I'm talking 3
+2023-11-05 21:33:08.784 [walker] INFO  packet.ThreadTalk - I'm talking 3
+2023-11-05 21:33:08.895 [walker] INFO  packet.ThreadTalk - I'm talking 4
+2023-11-05 21:33:08.895 [talker] INFO  packet.ThreadTalk - I'm talking 4
+2023-11-05 21:33:09.006 [walker] INFO  packet.ThreadTalk - I'm talking 5
+2023-11-05 21:33:09.006 [talker] INFO  packet.ThreadTalk - I'm talking 5
+2023-11-05 21:33:09.117 [walker] INFO  packet.ThreadTalk - I'm talking 6
+2023-11-05 21:33:09.117 [talker] INFO  packet.ThreadTalk - I'm talking 6
+2023-11-05 21:33:09.228 [walker] INFO  packet.ThreadTalk - I'm talking 7
+2023-11-05 21:33:09.228 [talker] INFO  packet.ThreadTalk - I'm talking 7
+2023-11-05 21:33:09.340 [walker] INFO  packet.ThreadTalk - I'm talking 8
+2023-11-05 21:33:09.340 [talker] INFO  packet.ThreadTalk - I'm talking 8
+2023-11-05 21:33:09.448 [talker] INFO  packet.ThreadTalk - I'm talking 9
+2023-11-05 21:33:09.448 [walker] INFO  packet.ThreadTalk - I'm talking 9
+2023-11-05 22:03:04.950 [main] DEBUG packet.RecursionDemo - Аргумент от n равно 6
+2023-11-05 22:05:04.924 [main] DEBUG packet.RecursionDemo - Аргумент от n равно 6
+2023-11-05 22:06:01.227 [main] DEBUG packet.RecursionDemo - Аргумент от n равно 6
